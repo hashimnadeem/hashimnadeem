@@ -32,9 +32,9 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">WordPress Website</h3>
+				<h3 align="center">Designo Website</h3>
 				<div align="center">  
-					<a href='https://codingphase.com' target="_blank">
+					<a href='https://designo.page' target="_blank">
 						<img src="https://github.com/hashimnadeem/hashimnadeem/blob/main/images/WordPress.jpg?raw=true" alt="project 1" height="100%" />
 					</a>
 					<br>
@@ -43,13 +43,13 @@
 						<a href="https://codingphase.com" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://designo.page" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS, Javascript</strong></p>
+					<p><strong>WordPress</strong></p>
           <p>
-						Description goes here
+						This is a website built with WordPress CMS
 					</p>
 				</div>
 			</td>
