@@ -75,10 +75,10 @@
         </tr>
 	    <tr>
             <td width="50%">
-                <h3 align="center">Project 3</h3>
+                <h3 align="center">Easybank Landing Page</h3>
                 <div align="center" >  
-                    <a href='https://codingphase.com' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 3" height="100%" />
+                    <a href='https://easybanklanding1.netlify.app/' target="_blank">
+                        <img src="https://github.com/hashimnadeem/hashimnadeem/blob/main/images/Easybank%20(1).jpg?raw=true" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -86,19 +86,19 @@
                         <a href="https://codingphase.com" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://easybanklanding1.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
                     <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+		    <p>This is a landigng page for Easybank created using HTML, CSS, and JavaScript</p>
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center">Project 4</h3>
+                <h3 align="center">Room Landing Page</h3>
                 <div align="center">  
                     <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
+                        <img src="" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
