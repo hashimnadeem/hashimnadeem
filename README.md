@@ -142,7 +142,7 @@
 				<h3 align="center">Chipotle Transactional Email/h3>
 				<div align="center" >  
 					<a href='https://chipotleverify.netlify.app/' target="_blank">
-						<img src="https://github.com/hashimnadeem/hashimnadeem/blob/main/images/BookmarkProject.jpg?raw=true" alt="project 2" height="100%" />
+						<img src="https://github.com/hashimnadeem/hashimnadeem/blob/main/images/chipotle.jpg?raw=true" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -154,8 +154,51 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>This is a landing page created with HTML, CSS, and JavaScript</p>
+					 <p><strong>HTML, CSS</strong></p>
+					<p>This is a responsive, transactional email for Chipotle</p>
+				</div>
+        </tr>
+	<tr>
+			<td width="50%">
+				<h3 align="center">Tripadvsior Newsletter Email</h3>
+				<div align="center">  
+					<a href='https://tripadvisornewsletter.netlify.app' target="_blank">
+						<img src="https://github.com/hashimnadeem/hashimnadeem/blob/main/images/duluth.jpg?raw=true" alt="project 1" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://tripadvisornewsletter.netlify.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>HTML, CSS</strong></p>
+          <p>
+						This is a responsive, newsletter HTML email for Tripadvsior
+					</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center">Clothes Castle/h3>
+				<div align="center" >  
+					<a href='https://clothescastle1.myshopify.com/' target="_blank">
+						<img src="https://github.com/hashimnadeem/hashimnadeem/blob/main/images/chipotle.jpg?raw=true" alt="project 2" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://clothescastle1.myshopify.com/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+					</p>
+					 <p><strong>Shopify</strong></p>
+					<p>This is an e-commerce clothing store built using Shopify CMS./p>
 				</div>
         </tr>
 	</table>
