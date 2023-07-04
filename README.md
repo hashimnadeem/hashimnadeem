@@ -185,7 +185,7 @@
 				<h3 align="center">Clothes Castle/h3>
 				<div align="center" >  
 					<a href='https://clothescastle1.myshopify.com/' target="_blank">
-						<img src="https://github.com/hashimnadeem/hashimnadeem/blob/main/images/chipotle.jpg?raw=true" alt="project 2" height="100%" />
+						<img src="https://github.com/hashimnadeem/hashimnadeem/blob/main/images/shopify%20(2).jpg?raw=true" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
