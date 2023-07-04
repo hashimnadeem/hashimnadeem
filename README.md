@@ -91,7 +91,7 @@
 						</a>
                     </p>
                     <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>This is a landigng page for Easybank created using HTML, CSS, and JavaScript</p>
+		    <p>This is a landing page for Easybank created using HTML, CSS, and JavaScript</p>
                 </div>
             </td>
             <td width="50%">
@@ -111,7 +111,7 @@
 						</a>	
                     </p>
                     <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+		    <p>This a landing page for a room furniture website</p>
                 </div>	
             </td>
         </tr>
