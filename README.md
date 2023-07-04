@@ -139,7 +139,7 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Chipotle Transactional Email/h3>
+				<h3 align="center">Chipotle Transactional Email </h3>
 				<div align="center" >  
 					<a href='https://chipotleverify.netlify.app/' target="_blank">
 						<img src="https://github.com/hashimnadeem/hashimnadeem/blob/main/images/chipotle.jpg?raw=true" alt="project 2" height="100%" />
