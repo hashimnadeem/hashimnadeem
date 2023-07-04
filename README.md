@@ -125,7 +125,7 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://github.com/hashimnadeem/duluthtradingco" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://duluth.netlify.app/" target="_blank">
@@ -147,7 +147,7 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://github.com/hashimnadeem/chipotle" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://chipotleverify.netlify.app/" target="_blank">
@@ -168,7 +168,7 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://github.com/hashimnadeem/tripadvisor" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://tripadvisornewsletter.netlify.app" target="_blank">
