@@ -62,7 +62,7 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://github.com/hashimnadeem/bookmark-landing-page" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://bookmarkhomepage.netlify.app/" target="_blank">
