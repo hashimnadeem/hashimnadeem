@@ -163,7 +163,7 @@
 				<h3 align="center">Tripadvsior Newsletter Email</h3>
 				<div align="center">  
 					<a href='https://tripadvisornewsletter.netlify.app' target="_blank">
-						<img src="https://github.com/hashimnadeem/hashimnadeem/blob/main/images/duluth.jpg?raw=true" alt="project 1" height="100%" />
+						<img src="https://github.com/hashimnadeem/hashimnadeem/blob/main/images/tripadvisor.jpg?raw=true" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
