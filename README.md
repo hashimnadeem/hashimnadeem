@@ -134,7 +134,7 @@
 					</p>
 					<p><strong>HTML, CSS</strong></p>
           <p>
-						This is a responsive, promotional HTML email for Duluth Trading Co.
+						This is a responsive, HTML email for Duluth Trading Co.
 					</p>
 				</div>
 			</td>
@@ -198,7 +198,7 @@
 						</a>	
 					</p>
 					 <p><strong>Shopify</strong></p>
-					<p>This is an e-commerce clothing store built using Shopify CMS </p>
+					<p>This is an e-commerce clothing store website</p>
 				</div>
         </tr>
 	</table>
