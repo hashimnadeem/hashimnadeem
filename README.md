@@ -115,6 +115,49 @@
                 </div>	
             </td>
         </tr>
+	<tr>
+			<td width="50%">
+				<h3 align="center">Duluth Trading Co. Promotional Email</h3>
+				<div align="center">  
+					<a href='https://designo.page' target="_blank">
+						<img src="https://github.com/hashimnadeem/hashimnadeem/blob/main/images/WordPress.jpg?raw=true" alt="project 1" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://designo.page" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>WordPress</strong></p>
+          <p>
+						This is a website built with WordPress CMS
+					</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center">Bookmark Landing Page</h3>
+				<div align="center" >  
+					<a href='https://bookmarkhomepage.netlify.app/' target="_blank">
+						<img src="https://github.com/hashimnadeem/hashimnadeem/blob/main/images/BookmarkProject.jpg?raw=true" alt="project 2" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://bookmarkhomepage.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+					</p>
+					 <p><strong>HTML, CSS, Javascript</strong></p>
+					<p>This is a landing page created with HTML, CSS, and JavaScript</p>
+				</div>
+        </tr>
 	</table>
 </div>
 <br />
