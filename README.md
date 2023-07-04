@@ -39,10 +39,7 @@
 					</a>
 					<br>
 					<br>
-					<p>
-						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
+					<p> 
 						<a href="https://designo.page" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
@@ -189,10 +186,7 @@
 					</a>
 					<br>
 					<br>
-					<p>
-						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
+					<p> 
 						<a href="https://clothescastle1.myshopify.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
