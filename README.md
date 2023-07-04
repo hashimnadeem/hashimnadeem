@@ -97,8 +97,8 @@
             <td width="50%">
                 <h3 align="center">Room Landing Page</h3>
                 <div align="center">  
-                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="" alt="project 4" height="100%" />
+                    <a href='https://roomfurniturepage.netlify.app' target="_blank">
+                        <img src="https://github.com/hashimnadeem/hashimnadeem/blob/main/images/room.jpg?raw=true" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -106,7 +106,7 @@
                         <a href="https://codingphase.com" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://roomfurniturepage.netlify.app" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
