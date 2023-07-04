@@ -182,7 +182,7 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Clothes Castle/h3>
+				<h3 align="center">Clothes Castle </h3>
 				<div align="center" >  
 					<a href='https://clothescastle1.myshopify.com/' target="_blank">
 						<img src="https://github.com/hashimnadeem/hashimnadeem/blob/main/images/shopify%20(2).jpg?raw=true" alt="project 2" height="100%" />
@@ -198,7 +198,7 @@
 						</a>	
 					</p>
 					 <p><strong>Shopify</strong></p>
-					<p>This is an e-commerce clothing store built using Shopify CMS./p>
+					<p>This is an e-commerce clothing store built using Shopify CMS </p>
 				</div>
         </tr>
 	</table>
