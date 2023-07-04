@@ -70,7 +70,7 @@
 						</a>	
 					</p>
 					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>This is a landing page created with HTML, CSS, and JavaScript</p>
+					<p>This is a landing page created for Bookmark</p>
 				</div>
         </tr>
 	    <tr>
@@ -91,7 +91,7 @@
 						</a>
                     </p>
                     <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>This is a landing page for Easybank created using HTML, CSS, and JavaScript</p>
+		    <p>This is a landing page for Easybank</p>
                 </div>
             </td>
             <td width="50%">
