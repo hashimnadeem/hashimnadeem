@@ -34,9 +34,9 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">Designo Website</h3>
+				<h3 align="center">The Good Plumbers Website</h3>
 				<div align="center">  
-					<a href='https://designo.page' target="_blank">
+					<a href='https://www.thegoodplumbers.xyz' target="_blank">
 						<img src="https://github.com/hashimnadeem/hashimnadeem/blob/main/images/WordPress.jpg?raw=true" alt="project 1" height="100%" />
 					</a>
 					<br>
