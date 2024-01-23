@@ -37,7 +37,7 @@
 				<h3 align="center">The Good Plumbers Website</h3>
 				<div align="center">  
 					<a href='https://www.thegoodplumbers.xyz' target="_blank">
-						<img src="https://github.com/hashimnadeem/hashimnadeem/blob/main/images/WordPress.jpg?raw=true" alt="project 1" height="100%" />
+						<img src="images/thegoodplumbers.jpg" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
