@@ -176,7 +176,7 @@
 					</p>
 					<p><strong>HTML, CSS</strong></p>
           <p>
-						This is a responsive, newsletter HTML email for Tripadvsior
+						Responsive newsletter HTML email for Tripadvsior
 					</p>
 				</div>
 			</td>
