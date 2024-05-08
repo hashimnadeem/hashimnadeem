@@ -133,7 +133,7 @@
 					</p>
 					<p><strong>HTML, CSS</strong></p>
           <p>
-						This is a responsive, HTML email for Duluth Trading Co.
+						This is a responsive, HTML email for Duluth Trading.
 					</p>
 				</div>
 			</td>
