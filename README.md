@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi, I'm Hashim Nadeem</h1>
 <h3 align="center">A web developer from Brooklyn, New York</h3>
-<h4 align="center">Hello there! My name is Hashim Nadeem. I am a web developer with based out of NYC with good knowledge in creating websites and emails. My capabilities include converting designs into responsive emails and websites, ensuring a good experience for all users. Besides web development, I am also into sports, movies, video games, and do some traveling from time to time.</h4>
+<h4 align="center">Hello there! My name is Hashim Nadeem. I am a web developer with based out of NYC with good knowledge in creating websites and emails. My capabilities include converting designs into responsive emails and websites, ensuring a good experience for all users.</h4>
 
 <hr>
 
