@@ -72,6 +72,46 @@
 					<p>This is a landing page created for Bookmark</p>
 				</div>
         </tr>
+		<tr>
+			<td width="50%">
+				<h3 align="center">Timemator</h3>
+				<div align="center">  
+					<a href='https://time-mator.netlify.app/' target="_blank">
+						<img src="images/thegoodplumbers.jpg" alt="project 1" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p> 
+						<a href="https://time-mator.netlify.app/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>HTML, CSS, JavaScript</strong></p>
+          <p>
+						This is a landing page for Timemator
+					</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center">Bookmark Landing Page</h3>
+				<div align="center" >  
+					<a href='https://bookmarkhomepage.netlify.app/' target="_blank">
+						<img src="https://github.com/hashimnadeem/hashimnadeem/blob/main/images/BookmarkProject.jpg?raw=true" alt="project 2" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/hashimnadeem/bookmark-landing-page" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://bookmarkhomepage.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+					</p>
+					 <p><strong>HTML, CSS, Javascript</strong></p>
+					<p>This is a landing page created for Bookmark</p>
+				</div>
+        </tr>
 	    <tr>
             <td width="50%">
                 <h3 align="center">Easybank Landing Page</h3>
