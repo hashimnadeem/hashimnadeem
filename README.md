@@ -93,10 +93,10 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Bookmark Landing Page</h3>
+				<h3 align="center">Designo</h3>
 				<div align="center" >  
-					<a href='https://bookmarkhomepage.netlify.app/' target="_blank">
-						<img src="https://github.com/hashimnadeem/hashimnadeem/blob/main/images/BookmarkProject.jpg?raw=true" alt="project 2" height="100%" />
+					<a href='https://www.designo.page/' target="_blank">
+						<img src="images/designo (1).jpg" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -104,12 +104,12 @@
 						<a href="https://github.com/hashimnadeem/bookmark-landing-page" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://bookmarkhomepage.netlify.app/" target="_blank">
+						<a href="https://www.designo.page/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>This is a landing page created for Bookmark</p>
+					 <p><strong>WordPress</strong></p>
+					<p>This is a website for Designo</p>
 				</div>
         </tr>
 	    <tr>
