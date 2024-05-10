@@ -77,7 +77,7 @@
 				<h3 align="center">Timemator</h3>
 				<div align="center">  
 					<a href='https://time-mator.netlify.app/' target="_blank">
-						<img src="images/timemator-image (1).jpg" alt="project 1" height="100%" />
+						<img src="images/Timemator.jpg" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
